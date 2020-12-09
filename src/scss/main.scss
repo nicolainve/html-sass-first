@@ -1,0 +1,21 @@
+$primary-color: red;
+
+// GENERAL
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color: $primary-color;
+}
+
+h3 {
+    color: $primary-color;
+}
